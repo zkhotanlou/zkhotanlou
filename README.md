@@ -11,8 +11,7 @@
 <br />
 <p align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zkhotanlou)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=zkhotanlou&theme=radical&show_icons=true" width="410"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zkhotanlou&layout=compact&theme=radical" width="400" />
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zkhotanlou)](https://github.com/anuraghazra/github-readme-stats)  
-
 </p>
