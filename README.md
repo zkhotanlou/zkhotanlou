@@ -3,7 +3,7 @@
 </p>
 <br />
 
-<p>Current Computer Enginnering student at Shahid Beheshti University. Interested to learn more and more in my major.</p>
+<p>Currently, I'm a PhD. student at University of Waterloo.</p>
 <br />
 
 ---
