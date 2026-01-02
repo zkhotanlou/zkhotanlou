@@ -3,7 +3,7 @@
 </p>
 <br />
 
-<p>Currently, I'm a PhD. student at University of Waterloo.</p>
+<p>Currently, I'm a Master's student at University of Waterloo.</p>
 <br />
 
 ---
