@@ -1,8 +1,10 @@
 # Zahra Khotanlou
 
 🎓 MASc Electrical & Computer Engineering @ University of Waterloo
-🔬 AI Researcher | Multi-Agent Systems, LLM Agents, Algorithmic Recourse
-💡 Published at ACM FAccT 2026
+
+🔬Research Assistant at Augmented Intelligence Lab
+
+💡 Multi-Agent Systems, LLM Agents, Algorithmic Recourse
 
 ---
 
