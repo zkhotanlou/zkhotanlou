@@ -43,4 +43,4 @@ My work lies at the intersection of:
 
 ---
 
-⭐ I always enjoy learning, in any form. Random fact: I love reading — feel free to reach out to connect, collaborate, or discuss anything related to my work, or if you're into creativity, especially painting, jewelry design, or running!
+⭐ I always enjoy learning, in any form. Random fact: I love reading. Feel free to reach out to connect, collaborate, or discuss anything related to my work!
